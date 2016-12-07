@@ -1,4 +1,6 @@
 # News-popularity-prediction
+
+[![Join the chat at https://gitter.im/News-popularity-prediction/Lobby](https://badges.gitter.im/News-popularity-prediction/Lobby.svg)](https://gitter.im/News-popularity-prediction/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The project aims to develop an effective learning algorithm to predict how popular an
 online article (news or story) would be before its publication by analyzing several
 statistic characteristics extracted from it.
